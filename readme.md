@@ -10,11 +10,19 @@
 
   [数据安全、隐私保护与密码学技术专栏]: https://zhuanlan.zhihu.com/datasec
 
+## 已翻译视频
+
+- ObliVM: A Programming Framework for Secure Computation，https://www.youtube.com/watch?v=Q2QLRcj0Mio&t=92s，S & P 2015。
+  - 知乎专栏文章：https://zhuanlan.zhihu.com/p/73618400
+  - 中文字幕视频：https://www.bilibili.com/video/av59239482
+- SoK: General Propose Framework for Secure Multi-Party Computation，https://www.youtube.com/watch?v=I0bremwQ_ns&t=40s，S & P 2019。
+  - 知乎专栏文章：https://zhuanlan.zhihu.com/p/72119587
+  - 中文字幕视频：https://www.bilibili.com/video/av57765218
+
 ## 待翻译视频
 
 - GraphSC: Parallel Secure Computation Made Easy，https://www.youtube.com/watch?v=YTKcXZQeQX0 S & P 2015
 - The Simplest Protocol for Oblivious Transfer，https://www.youtube.com/watch?v=pIi-YTBBolU&t=43s LATINCRYPT 2015
-- ObliVM: A Programming Framework for Secure Computation，https://www.youtube.com/watch?v=Q2QLRcj0Mio&t=92s S & P 2015
 - Efficient Batched Oblivious PRF with Applications to Private Set Intersection，https://www.youtube.com/watch?v=i0kGwz_52Wg&t=11s CCS 2016
 - Improved OT Extension for Transferring Short Secrets，https://www.youtube.com/watch?v=AgPZVecLuXs CRYPTO 2013
 - Private SQL -  A Differentially Private SQL Query Engine，https://www.youtube.com/watch?v=YPx_lk92dTk&t=4s CIDR 2019
@@ -29,9 +37,3 @@
 - Secure Computation with Sublinear Amortized Work，https://www.youtube.com/watch?v=InW6i0oGBf0&t=1055s CCS 2012
 - Revisiting Square Root ORAM: Efficient Random Access in Multi-Party Computation，https://www.youtube.com/watch?v=OnOF8zzIL9I S & P 2016
 - Scaling ORAM for Secure Computation，https://www.youtube.com/watch?v=XXtlS72sHQY CCS 2017
-
-## 已翻译视频
-
-- SoK: General Propose Framework for Secure Multi-Party Computation，https://www.youtube.com/watch?v=I0bremwQ_ns&t=40s S & P 2019
-  - 知乎专栏文章：https://zhuanlan.zhihu.com/p/72119587
-  - 中文字幕视频：https://www.bilibili.com/video/av57765218
