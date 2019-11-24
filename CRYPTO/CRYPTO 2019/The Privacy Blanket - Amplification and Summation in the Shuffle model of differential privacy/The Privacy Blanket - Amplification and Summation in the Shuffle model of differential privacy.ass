@@ -15,9 +15,9 @@ Video File: ../../../../视频/CRYPTO/CRYPTO 2019/The Privacy Blanket - Amplific
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 51
-Active Line: 70
-Video Position: 2173
+Scroll Position: 102
+Active Line: 112
+Video Position: 13949
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,7 +26,7 @@ Style: Default,微软雅黑,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.90,Default,,0,0,0,,{\pos(639,50)}听译、时间轴：刘巍然（学酥）
-Dialogue: 0,0:00:07.16,0:00:12.49,Default,,0,0,0,,我讲解的论文题目是：《隐私篮子：差分隐私置乱模型的隐私放大效应与求和方法》
+Dialogue: 0,0:00:07.16,0:00:12.49,Default,,0,0,0,,我讲解的论文题目是：《隐私毯子：差分隐私置乱模型的隐私放大效应与求和方法》
 Dialogue: 0,0:00:12.49,0:00:20.06,Default,,0,0,0,,在讲解我们的具体工作之前 我们需要首先介绍差分隐私和置乱模型
 Dialogue: 0,0:00:21.53,0:00:28.62,Default,,0,0,0,,在差分隐私中 我们有一个数据集 数据集中包含用户的数据
 Dialogue: 0,0:00:28.62,0:00:30.34,Default,,0,0,0,,我们想对数据集进行数据分析
@@ -151,9 +151,9 @@ Dialogue: 0,0:10:03.24,0:10:09.55,Default,,0,0,0,,有了这个礼物 攻击者�
 Dialogue: 0,0:10:09.55,0:10:15.13,Default,,0,0,0,,如果目标用户给出的是真实答复 留给攻击者的就是绿色的直方图加上他的数据项
 Dialogue: 0,0:10:15.13,0:10:20.64,Default,,0,0,0,,如果目标用户在撒谎 他的答复就与真实数据相互独立 结果中不会泄露任何信息
 Dialogue: 0,0:10:20.64,0:10:24.14,Default,,0,0,0,,因此 我们只需要担心当目标用户给出真实答复下的情况
-Dialogue: 0,0:10:26.24,0:10:32.67,Default,,0,0,0,,我们把绿色直方图称为隐私篮子
-Dialogue: 0,0:10:32.67,0:10:36.97,Default,,0,0,0,,隐私篮子的基本思想是 目标用户的数据可以被其他用户的独立随机数据所覆盖
-Dialogue: 0,0:10:36.97,0:10:40.51,Default,,0,0,0,,隐私篮子可以盖住目标用户的真实数据
+Dialogue: 0,0:10:26.24,0:10:32.67,Default,,0,0,0,,我们把绿色直方图称为隐私毯子
+Dialogue: 0,0:10:32.67,0:10:36.97,Default,,0,0,0,,隐私毯子的基本思想是 目标用户的数据可以被其他用户的独立随机数据所覆盖
+Dialogue: 0,0:10:36.97,0:10:40.51,Default,,0,0,0,,隐私毯子可以盖住目标用户的真实数据
 Dialogue: 0,0:10:43.26,0:10:48.03,Default,,0,0,0,,攻击者需要有能力区分两种场景下的答复结果
 Dialogue: 0,0:10:48.03,0:10:57.36,Default,,0,0,0,,他需要告诉我们 答复结果是额外增加一个0得到的 还是额外增加一个1得到的
 Dialogue: 0,0:10:59.37,0:11:02.47,Default,,0,0,0,,我们需要考察两个概率分布的似然比
@@ -250,7 +250,7 @@ Dialogue: 0,0:19:45.88,0:19:51.45,Default,,0,0,0,,只要有一定比例的用户
 Dialogue: 0,0:19:51.45,0:19:55.24,Default,,0,0,0,,但我们需要让足够多的用户按照要求执行协议
 Dialogue: 0,0:19:55.24,0:20:03.58,Default,,0,0,0,,只要足够多的用户随机答复 攻击者就无法知道目标用户的回复结果是什么了
 Dialogue: 0,0:20:03.58,0:20:07.48,Default,,0,0,0,,因此 这些用户的安全假设并非是半可信的 他们必须是可信的
-Dialogue: 0,0:20:07.48,0:20:11.48,Default,,0,0,0,,这样我们才能得到足够大的隐私篮子 从而隐藏目标用户的回复结果
+Dialogue: 0,0:20:07.48,0:20:11.48,Default,,0,0,0,,这样我们才能得到足够大的隐私毯子 从而隐藏目标用户的回复结果
 Dialogue: 0,0:20:11.48,0:20:23.96,Default,,0,0,0,,你可能会想到 或许基于MPC的置乱协议可以帮助验证噪声是否已经正确添加
 Dialogue: 0,0:20:23.96,0:20:29.82,Default,,0,0,0,,噪声添加过程、或者随机答复过程也可以在MPC中进行 以保证噪声被正确添加
 Dialogue: 0,0:20:29.82,0:20:34.76,Default,,0,0,0,,这样就可以让这些用户的安全假设从可信退化到半可信
